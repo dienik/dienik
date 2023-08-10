@@ -6,7 +6,7 @@
 
 
 
-![snake gif](https://github.com/dienik/dienik/blob/output/github-contribution-grid-snake.svg)
+
 
  
 
